@@ -6,3 +6,6 @@ The project has started with data cleaning which has removed missing information
 The cleaned dataset has been exported to CSV format and imported into Tableau for analysis. The analysis has been done from the perspective of aircrafts with the least accidents,least fatalities, the year which has had the least accidents to make it the best year to be considered in choosing the best candidate for the aircraft to purchase.
 Visuals have been prepared on Tableau to represent the analysis above and the link to the visuals is presented below.
 Link to Tableau dashboard https://public.tableau.com/app/profile/stephen.jilani/viz/Phase_Project_Data_Viz/Dashboard1
+Insights and recommendations have been provided to the stakeholders via the power point presetation which is also part of the repository, saved as a pdf.
+The repository contains the information below
+      1. A Phase
