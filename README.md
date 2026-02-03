@@ -8,4 +8,7 @@ Visuals have been prepared on Tableau to represent the analysis above and the li
 Link to Tableau dashboard https://public.tableau.com/app/profile/stephen.jilani/viz/Phase_Project_Data_Viz/Dashboard1
 Insights and recommendations have been provided to the stakeholders via the power point presetation which is also part of the repository, saved as a pdf.
 The repository contains the information below
-      1. A Phase
+      1. A Phase_1_Project.ipynb notebook which contains all the code that has been written for the project
+      2. A cleaned_flight_data.csv file which is the clean dataset that has been imported into Tableau for analysis and vizualization
+      3. A flight.csv file which has the raw data that was taken through the cleaning process leading to the analysis and presentation
+      5. A git.ignore file which contains all the files that git has been instructed to ignore. Except there are none in the situation
